@@ -4,7 +4,7 @@ Een serie *Jupyter Notebooks* waarin relevante AI/Data Science thema's binnen he
 **Maintainer:** [Ed. de Feber](mailto://e.defeber@horizoncollege.nl),*Adviseur AI en Data Ondersteund Onderwijs*   
 **Last change:** 2023 November 8
 
-![Horizon College Logo](tien_minuten_topics/2horizon_logo.png) 
+![Horizon College Logo](notebooks/tien_minuten_topics/2horizon_logo.png) 
  
 | Tags | Beschrijving |
 | --- | ---|
@@ -21,6 +21,6 @@ Een Thema biedt een inhoudelijk uitleg om zo de AI terminologie te verduidelijke
 
 Ik hoop dat de lezer wat opsteekt van een 10 Minuten Thema, of misschien zelfs een nieuw inzicht verwerft, maar bovenal hoop ik dat de thema's inspireren, verhelderen en verduidelijken om zo een steentje bij te dragen voor hen die beslissen over toekomst, kwaliteit en koers van het MBO onderwijs. 
 
-`Tip Bestudeer een Thema op weg naar huis in de trein, of tijdens de lunch,  of om even snel je kennis op te frissen over een bepaald thema voordat je in gesprek gaat[1]`
+`Tip Bestudeer een Thema op weg naar huis in de trein, of tijdens de lunch,  of om even snel je kennis op te frissen over een bepaald thema voordat je in gesprek gaat[^1]`
 
-[1]: *Disclaimer: De gepresenteerde voorbeelden met Python code illustreren globaal de werking van een bepaald AI onderwerp. Een Thema heeft een didactisch doel niet een technisch of productioneel doel. Derhalve staat het je vrij om de code te kopieren, aan te passen, en te gebruiken, maar is het sterk af te raden om voor productie doeleinden te gebruiken. Het gaat om didactische verduidelijking van concepten binnen een "Thema Toy World". De gepresenteerde code, algoritmes, en modellen zijn buiten deze wereld, op zijn minst onvolledig of onbetrouwbaar, en soms zelfs gewoon incorrect of fout.*
+[^1]: *Disclaimer: De gepresenteerde voorbeelden met Python code illustreren globaal de werking van een bepaald AI onderwerp. Een Thema heeft een didactisch doel niet een technisch of productioneel doel. Derhalve staat het je vrij om de code te kopieren, aan te passen, en te gebruiken, maar is het sterk af te raden om voor productie doeleinden te gebruiken. Het gaat om didactische verduidelijking van concepten binnen een "Thema Toy World". De gepresenteerde code, algoritmes, en modellen zijn buiten deze wereld, op zijn minst onvolledig of onbetrouwbaar, en soms zelfs gewoon incorrect of fout.*
