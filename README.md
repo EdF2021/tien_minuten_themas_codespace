@@ -4,7 +4,7 @@ Een serie *Jupyter Notebooks* waarin relevante AI/Data Science thema's binnen he
 **Maintainer:** [Ed. de Feber](mailto://e.defeber@horizoncollege.nl),*Adviseur AI en Data Ondersteund Onderwijs*   
 **Last change:** 2023 November 8
 
-![Horizon College Logo](notebooks/tien_minuten_topics/2horizon_logo.png) 
+![Horizon College Logo](https://github.com/EdF2021/tien_minuten_themas_codespace/blob/main/notebooks/horizon_logo.png) 
  
 | Tags | Beschrijving |
 | --- | ---|
